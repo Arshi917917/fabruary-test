@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: silver;
+}
+body{
+    text-align: center;
+}
+/* .test_div{
+    font-size: 10px;
+} */
+.text{
+    margin-top: 100px;
+    font-size: 2.1rem;
+    
+}
+input{
+    margin-top: 35px;
+    border: 1px solid black;
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+}
+button{
+   font-size: 20px;
+   padding: 5px;
+   border-radius: 5px;
+   margin: 20px;
+   background-color: aqua;
+}
+.div_div{
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.login_div{
+    margin-top: 30px;
+    padding: 10px;
+    border: 1px solid black;
+    
+     
+}
